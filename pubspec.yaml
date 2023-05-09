@@ -15,7 +15,8 @@ dependencies:
   path_provider: ^2.0.11
   tflite_flutter: ^0.9.0
   tuple: ^2.0.1
-  camera: ^0.10.1
+  # camera: ^0.10.1
+  camera: ^0.9.4+5
   # ffi: ^1.0.0
   ffi: ^2.0.1
   # image: ^4.0.8
