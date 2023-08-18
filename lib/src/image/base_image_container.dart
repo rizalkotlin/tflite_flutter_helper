@@ -4,8 +4,8 @@ import 'package:tflite_flutter/tflite_flutter.dart';
 import 'package:tflite_flutter_helper/src/image/color_space_type.dart';
 import 'package:tflite_flutter_helper/src/tensorbuffer/tensorbuffer.dart';
 
-//
 abstract class BaseImageContainer {
+
   /// Performs deep copy of the {@link ImageContainer}. */
   BaseImageContainer clone();
 

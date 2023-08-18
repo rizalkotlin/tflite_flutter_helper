@@ -24,7 +24,6 @@ class ImageConversions {
       int g = rgbValues[j++];
       int b = rgbValues[j++];
       image.setPixelRgba(wi, hi, r, g, b);
-
       wi++;
       if (wi % w == 0) {
         wi = 0;
